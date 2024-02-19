@@ -5,8 +5,6 @@
   color: #502314;
 }
 
-
-
 #franchise {
   background-color: red;
   border: 1px solid white;
@@ -32,7 +30,11 @@
   align-items: center;
 }
 
-#main-logo{
-    width: 35px;
-    height: 35px;
+#main-logo {
+  width: 35px;
+  height: 35px;
+}
+
+.imo {
+  width: 100%;
 }
