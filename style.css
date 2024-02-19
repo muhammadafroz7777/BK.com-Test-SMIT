@@ -17,7 +17,7 @@
 #onder-online {
   background-color: black;
   cursor: pointer;
-  padding: 15px 13.5px;
+  padding: 15px 20px;
   border: 0px;
   color: #ffffff;
   border-radius: 25px;
@@ -47,4 +47,15 @@
 
 body{
     background-color: #F5EBDC;
+}
+
+#onder{
+    border: #F5EBDC;
+    cursor: pointer;
+    padding: 15px 20px;
+    border: 1px;
+    color: #D62300;
+    border-radius: 25px;
+    border-color: #D62300;
+    border: solid;
 }
