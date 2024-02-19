@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #502314;
+}
+
+
+
+#franchise {
+  background-color: red;
+  border: 1px solid white;
+  cursor: pointer;
+  padding: 15px 20px;
+  color: #ffffff;
+  border-radius: 25px;
+}
+
+#onder-online {
+  background-color: black;
+  cursor: pointer;
+  padding: 15px 13.5px;
+  border: 0px;
+  color: #ffffff;
+  border-radius: 25px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  display: wrap;
+  align-items: center;
+}
+
+#main-logo{
+    width: 35px;
+    height: 35px;
+}
